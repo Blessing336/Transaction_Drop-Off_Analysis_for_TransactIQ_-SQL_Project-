@@ -91,9 +91,17 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *Wallet Funding is the transaction type with the highest number of drop-offs, totalling 5,590 instances.*
 
-![Likely to drop off](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/3ad12f76246060dd666267f44129a74c80af423a/Resources/Fail%20Points.png)
+![Likely to drop off](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d81b009460440d0247c2ea9aaf224bcc5678b8ff/Resources/Likeliness.png)
 
+<br/>
 
+<br/>
+
+**4.** Which devices have higher failure or drop-off rates?
+
+*The Web platform has the highest number of transaction failures and drop-offs, followed closely by POS terminals and Tablets.
+
+![Device Drop Off Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d81b009460440d0247c2ea9aaf224bcc5678b8ff/Resources/Likeliness.png)
 
 
 
