@@ -71,7 +71,7 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *The most frequent was Timeout, with 178 occurrences.*
 
-![Top DropReason](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d3d47a173a311b47de6ee85f88794f260f19d53b/Resources/Top%20DropReasonCode.png)
+![Top DropReason](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/19037d6108c6ede8078e2ba979887823cce7deeb/Resources/top%20dropreasoncode.png)
 
 <br/>
 
