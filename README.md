@@ -101,7 +101,18 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *The Web platform has the highest number of transaction failures and drop-offs, followed closely by POS terminals and Tablets.
 
-![Device Drop Off Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d81b009460440d0247c2ea9aaf224bcc5678b8ff/Resources/Likeliness.png)
+![Device Drop Off Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/5b78d47ed3cf078a38c58700e899df24ed0811bb/Resources/Device%20Drop%20Off%20Rate.png)
+
+<br/>
+
+<br/>
+
+**5.** What Was the Total Value of Dropped Transactions in the Last Three Months?
+
+*Compared to January, there is a steady decrease in the value of dropped transactions over the three months, with March seeing the second to the lowest drop-off value exceeding ₦240 million.*
+
+![Monthly Drop Off Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/5b78d47ed3cf078a38c58700e899df24ed0811bb/Resources/Device%20Drop%20Off%20Rate.png)
+
 
 
 
