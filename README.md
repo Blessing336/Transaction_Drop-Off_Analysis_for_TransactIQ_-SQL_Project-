@@ -71,8 +71,17 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *The most frequent was Timeout, with 178 occurrences.*
 
-![Top DropReason](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/f6dc22919d0602996fa4e97f7374dbcc1592e11f/Resources/High_Value_Customers.png)
+![Top DropReason](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d3d47a173a311b47de6ee85f88794f260f19d53b/Resources/Top%20DropReasonCode.png)
 
+<br/>
+
+<br/>
+
+**2.** At Which Stages Do Most Customers Drop Off During the Transaction Funnel?
+
+*The three most common fail points in the transaction process are Confirmation Stage, Amount Entry Stage, and OTP Stage*
+
+![Fail Points](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d3d47a173a311b47de6ee85f88794f260f19d53b/Resources/Top%20DropReasonCode.png)
 
 
 
