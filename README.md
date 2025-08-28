@@ -91,7 +91,7 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *Wallet Funding is the transaction type with the highest number of drop-offs, totalling 5,590 instances.*
 
-![Likely to drop off](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d81b009460440d0247c2ea9aaf224bcc5678b8ff/Resources/Likeliness.png)
+![Likely to drop off](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/4686a0a10bf318f2006665bdf5436c5ddff972b8/Resources/likeliness.png)
 
 <br/>
 
