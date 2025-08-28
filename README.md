@@ -121,8 +121,17 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *4,312 attempted payments failed, not due to system errors or device issues, but because customers didn’t have enough money at the time of the transaction.*
 
-![Insufficient Balance](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/ddf027dbeb8985791a73ffa55bf793caebb1b9b6/Resources/Drop%20off%20Month.png)
+![Insufficient Balance](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/c7e0c0b2c7748914394c1112337b73f4445a2348/Resources/insufficient%20balance.png)
 
+<br/>
+
+<br/>
+
+**7.** How Much Revenue Was Recovered Through Retries?
+
+* Every failed transaction is a permanent loss because zero transactions were successfully completed after failed attempts. Customers who experienced a transaction drop-off never returned to retry or complete their purchases.
+
+![Retries Recovered](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/c7e0c0b2c7748914394c1112337b73f4445a2348/Resources/insufficient%20balance.png)
 
 
 
