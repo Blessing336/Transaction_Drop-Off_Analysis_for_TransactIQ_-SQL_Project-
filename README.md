@@ -32,7 +32,15 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 <br/>
 
-2. Are More Transactions Failing or Being Dropped?
+2. How Often Do Users Retry the Same Transaction?
+
+*Nearly 1 in 4 transactions requires more than one attempt to complete.*
+
+![Retry Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/15e74efe1e552c887e4d8172c263c4d157e198b7/Resources/Retry%20Rate.png)
+
+<br/>
+
+3. Are More Transactions Failing or Being Dropped?
 
 *The 41% drop-off rate is a major friction or abandonment in transaction process as it indicates that nearly half of the users or systems initiating a transaction do not complete it. Likewise the 30% Failure Rate shows are likely technical or validation issues that prevent the transaction from succeeding.*
 
@@ -40,12 +48,11 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 <br/>
 
-3. How Often Do Users Retry the Same Transaction
+4. How Many Customers Transact at High Value Customers?
 
-*Nearly 1 in 4 transactions requires more than one attempt to complete.*
+*37 customers had over ₦15 million total transaction amount in 3 months.*
 
-![Retry Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/0ba55f68fdafc309bf1b12941809dc64ddf8570e/Resources/Drop%20%26%20Fail%20Rates.png)
-
+![High_Value_Customers](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/0ba55f68fdafc309bf1b12941809dc64ddf8570e/Resources/Drop%20%26%20Fail%20Rates.png)
 
 
 
