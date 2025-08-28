@@ -81,7 +81,19 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *The three most common fail points in the transaction process are Confirmation Stage, Amount Entry Stage, and OTP Stage*
 
-![Fail Points](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d3d47a173a311b47de6ee85f88794f260f19d53b/Resources/Top%20DropReasonCode.png)
+![Fail Points](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/3ad12f76246060dd666267f44129a74c80af423a/Resources/Fail%20Points.png)
+
+<br/>
+
+<br/>
+
+**3.** Are users more likely to drop off when paying bills, sending money, or topping up airtime? 
+
+*Wallet Funding is the transaction type with the highest number of drop-offs, totalling 5,590 instances.*
+
+![Likely to drop off](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/3ad12f76246060dd666267f44129a74c80af423a/Resources/Fail%20Points.png)
+
+
 
 
 
