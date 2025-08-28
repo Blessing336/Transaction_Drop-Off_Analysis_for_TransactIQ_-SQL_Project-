@@ -58,7 +58,7 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *37 customers had over ₦15 million total transaction amount in 3 months.*
 
-![High_Value_Customers](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/f6dc22919d0602996fa4e97f7374dbcc1592e11f/Resources/High_Value_Customers.png)
+![High_Value_Customers](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/b150efa20aec0f610374f3550bfb78815d4f8b5f/Resources/high_value_customers.png)
 
 
 <br/>
