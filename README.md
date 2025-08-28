@@ -131,7 +131,7 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 * Every failed transaction is a permanent loss because zero transactions were successfully completed after failed attempts. Customers who experienced a transaction drop-off never returned to retry or complete their purchases.
 
-![Retries Recovered](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/c7e0c0b2c7748914394c1112337b73f4445a2348/Resources/insufficient%20balance.png)
+![Retries Recovered](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d028696cf52a05f8f29148f297f1a16ebe453f86/Resources/Retries_Recovered.png)
 
 
 
