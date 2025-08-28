@@ -22,8 +22,17 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 # Insights
 
+#### KPIs
 
+1. Are Users Still Retrying Payments After the App Upgrade?
 
+*Yes. The second window shows how many of those unique groups had multiple attempts.*
+
+![Unique and Retries](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/bb8aa271599362a13328c8d61db55274cf8ee2a8/Resources/Unique%20%26%20Retries.png)
+
+<br/>
+
+2. 
 
 
 
