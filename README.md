@@ -38,6 +38,15 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 ![Drop & Fail Rates](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/0ba55f68fdafc309bf1b12941809dc64ddf8570e/Resources/Drop%20%26%20Fail%20Rates.png)
 
+<br/>
+
+3. How Often Do Users Retry the Same Transaction
+
+*Nearly 1 in 4 transactions requires more than one attempt to complete.*
+
+![Retry Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/0ba55f68fdafc309bf1b12941809dc64ddf8570e/Resources/Drop%20%26%20Fail%20Rates.png)
+
+
 
 
 
