@@ -32,9 +32,11 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 <br/>
 
-2. 
+2. Are More Transactions Failing or Being Dropped?
 
+*The 41% drop-off rate is a major friction or abandonment in transaction process as it indicates that nearly half of the users or systems initiating a transaction do not complete it. Likewise the 30% Failure Rate shows are likely technical or validation issues that prevent the transaction from succeeding.*
 
+![Drop & Fail Rates](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/0ba55f68fdafc309bf1b12941809dc64ddf8570e/Resources/Drop%20%26%20Fail%20Rates.png)
 
 
 
