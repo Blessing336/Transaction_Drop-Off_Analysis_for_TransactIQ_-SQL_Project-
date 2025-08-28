@@ -38,7 +38,7 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *Nearly 1 in 4 transactions requires more than one attempt to complete.*
 
-![Retry Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/15e74efe1e552c887e4d8172c263c4d157e198b7/Resources/Retry%20Rate.png)
+![Retry Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/bdb232267409fcea845363a26cb66f60597f865c/Resources/retry%20rate.png)
 
 <br/>
 
