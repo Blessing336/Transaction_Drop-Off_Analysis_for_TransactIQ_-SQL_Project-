@@ -20,6 +20,23 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 <br/>
 
+<br/>
+
+# Executive Summary
+
+Over a 3-month transactional review period, performance indicators across the customer transaction lifecycle revealed **persistent revenue loss and critical points**, particularly relating to transaction **drop-offs and failed recoveries**.
+
+The most critical insight comes from the retry recovery analysis. Across all dropped transactions, **the platform failed to recover even a single payment through retries**. **Not one customer who experienced a failed attempt went on to successfully complete that same transaction through a subsequent attempt**. This shows that once a transaction fails, it’s gone permanently. Whether the failure was due to technical errors, insufficient funds, or customer abandonment, there is no systematic re-engagement: **no push to retry, no saved progress, no follow-up**.
+
+In essence, **TransactIQ's platform has no functional retry funnel** as it shows thousands of potential revenue opportunities are lost without recapture. Even a modest recovery rate of 10–20% on retries could have reversed this trend significantly. But currently, the infrastructure is allowing users to fail once and never return.
+
+These findings point to a need for comprehensive workflow redesigns: **from preemptive drop-off prevention to post-failure re-engagement mechanisms (such as retry prompts, saved transaction states, and smarter customer nudges)**. Without this, the platform will continue to suffer silent but substantial revenue leakage and declining customer trust.
+
+<br/>
+
+<br/>
+
+
 # Insights
 
 ### KPIs
@@ -132,6 +149,49 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 * Every failed transaction is a permanent loss because zero transactions were successfully completed after failed attempts. Customers who experienced a transaction drop-off never returned to retry or complete their purchases.
 
 ![Retries Recovered](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/d028696cf52a05f8f29148f297f1a16ebe453f86/Resources/Retries_Recovered.png)
+
+<br/>
+
+<br/>
+
+# Recommendations
+
+1. **Implement Pre-Transaction Affordability Checks**
+
+*4,312 drop-offs occurred due to customers attempting transactions beyond their available balance.*
+
+These are avoidable failures. Customers should never have to reach the point of transaction failure if balance checks are done early and clearly communicated.
+
+**Solution: Introduce real-time balance validation before a transaction progresses past the review screen.**
+
+<br/>
+
+<br/>
+
+2. **Design and Deploy a Smart Retry Funnel**
+
+*Zero transactions were recovered through retries — representing complete revenue loss once a transaction fails.*
+
+Customers may be willing to complete a transaction if prompted or reminded, especially if the cause was a temporary issue (low balance, network issue).
+
+**Solution:**
+* Save failed transaction details temporarily, allowing users to retry within a set time window (e.g., 30 mins).
+
+* Trigger automated reminders via SMS, email, or push notification to prompt retry.
+
+* Use smart retry logic ie. If the failure was due to low balance, prompt when balance is restored.
+
+<br/>
+
+<br/>
+
+3. **Set Up Weekly Drop-Off Analytics & Recovery Dashboards**
+
+A real-time monitoring system helps the business stay proactive, not reactive.
+
+**Solution:**
+
+* Build a Power BI dashboard showing: Drop-off trends over time, Drop-offs by cause, Retry attempts vs successes, Trigger alerts when drop-offs spike unexpectedly.
 
 
 
