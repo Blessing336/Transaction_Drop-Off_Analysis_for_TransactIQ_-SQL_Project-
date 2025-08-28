@@ -79,9 +79,9 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 **2.** At Which Stages Do Most Customers Drop Off During the Transaction Funnel?
 
-*The three most common fail points in the transaction process are Confirmation Stage, Amount Entry Stage, and OTP Stage*
+*The three most common drop-off points in the transaction process are Confirmation Stage, Amount Entry Stage, and OTP Stage*
 
-![Fail Points](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/3ad12f76246060dd666267f44129a74c80af423a/Resources/Fail%20Points.png)
+![Fail Points](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/16b456e9a1febc37684c9eaf6812686a31b40481/Resources/fail%20points.png)
 
 <br/>
 
