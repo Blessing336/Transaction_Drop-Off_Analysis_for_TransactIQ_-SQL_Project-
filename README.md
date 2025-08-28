@@ -111,9 +111,17 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 *Compared to January, there is a steady decrease in the value of dropped transactions over the three months, with March seeing the second to the lowest drop-off value exceeding ₦240 million.*
 
-![Monthly Drop Off Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/5b78d47ed3cf078a38c58700e899df24ed0811bb/Resources/Device%20Drop%20Off%20Rate.png)
+![Monthly Drop Off Rate](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/ddf027dbeb8985791a73ffa55bf793caebb1b9b6/Resources/Drop%20off%20Month.png)
 
+<br/>
 
+<br/>
+
+**6.** How Many Drop-Offs Were Caused by Insufficient Balance?
+
+*4,312 attempted payments failed, not due to system errors or device issues, but because customers didn’t have enough money at the time of the transaction.*
+
+![Insufficient Balance](https://github.com/Blessing336/Transaction_Drop-Off_Analysis_for_TransactIQ_-SQL_Project-/blob/ddf027dbeb8985791a73ffa55bf793caebb1b9b6/Resources/Drop%20off%20Month.png)
 
 
 
