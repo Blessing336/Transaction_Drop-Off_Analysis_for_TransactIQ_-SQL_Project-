@@ -24,7 +24,7 @@ This project empowers TransactIQ’s teams to **track the actual impact of the a
 
 # Executive Summary
 
-Over a 3-month transactional review period, performance indicators across the customer transaction lifecycle revealed **persistent revenue loss and critical points**, particularly relating to transaction **drop-offs and failed recoveries**.
+Over a 3-month transactional review period, performance indicators revealed **persistent revenue loss**, particularly relating to transaction **drop-offs and failed recoveries**.
 
 The most critical insight comes from the retry recovery analysis. Across all dropped transactions, **the platform failed to recover even a single payment through retries**. **Not one customer who experienced a failed attempt went on to successfully complete that same transaction through a subsequent attempt**. This shows that once a transaction fails, it’s gone permanently. Whether the failure was due to technical errors, insufficient funds, or customer abandonment, there is no systematic re-engagement: **no push to retry, no saved progress, no follow-up**.
 
